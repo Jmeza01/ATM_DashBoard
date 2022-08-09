@@ -1,3 +1,3 @@
 # ATMExercise
-Simple React ATM
+Simple React ATM Dashboard
 <img src="./atm.png" />
